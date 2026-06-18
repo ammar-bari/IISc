@@ -1,0 +1,37 @@
+# ROS 2 Workspaces
+build/
+install/
+log/
+
+# Python Environments
+.venv/
+venv/
+myenv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy Data & Logs
+*.bag
+*.csv
+*.dat
+*.log
+
+# C++ binaries / OS files
+*.o
+*.so
+.DS_Store
+
+
+# Ignore VS Code databases
+.vscode/*.db
+.vscode/*.db-shm
+.vscode/*.db-wal
+venv/
+myenv/
+__pycache__/
+*.pptx
+*.pptx
+
+
+.vscode/
